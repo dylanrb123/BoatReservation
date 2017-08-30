@@ -9,7 +9,8 @@ import annotations.MyStyle;
 @MyStyle
 @Immutable
 public interface UserIF {
-  String getFIrstName();
+  String getEmail();
+  String getFirstName();
   String getLastName();
-  Optional<String> getAccesToken();
+  Optional<String> getAccessToken();
 }

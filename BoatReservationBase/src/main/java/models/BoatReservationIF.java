@@ -11,4 +11,5 @@ public interface BoatReservationIF {
   int getUserId();
   long getStartTime();
   long getEndTime();
+  boolean isDeleted();
 }
