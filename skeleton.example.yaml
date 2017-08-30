@@ -1,0 +1,13 @@
+server:
+  type: simple
+  applicationContextPath: /
+
+bindResources: 
+bindFilters:
+bindExtras:
+
+database:
+  driverClass:
+  user:
+  password:
+  url:

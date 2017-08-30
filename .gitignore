@@ -1,0 +1,14 @@
+target
+.DS_Store
+.classpath
+.settings
+target-eclipse
+.project
+.pydevproject
+bin
+*~
+.checkstyle
+*.iml
+.idea
+*.pyc
+example.yaml
