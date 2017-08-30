@@ -36,6 +36,4 @@ public class BoatReservationResource {
     exampleManager.insert(name);
     return name;
   }
-
-
 }
